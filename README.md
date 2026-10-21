@@ -12,12 +12,12 @@
 
 
 ## Мои учебные проекты
+**[cosmetic-x](https://github.com/BushidoBlaze/cosmetic-x)** - [*Учебный интернет-магазин аксессуаров*](https://bushidoblaze.github.io/cosmetic-x/)
+- Frontend на: React, TypeScript, Vite.
+
 **[my_home](https://github.com/BushidoBlaze/my_home)** - [*Платформа для управляющих компаний и жильцов*](https://bushidoblaze.github.io/my_home/)
 - Frontend на: React, TypeScript, Vite.
 - Backend на: C#, .NET10 **(ИИ)** 
-
-**[cosmetic-x](https://github.com/BushidoBlaze/cosmetic-x)** - [*Учебный интернет-магазин аксессуаров*](https://bushidoblaze.github.io/cosmetic-x/)
-- Frontend на: React, TypeScript, Vite.
 
 **[prof-vospit](https://github.com/BushidoBlaze/prof-vospit)** - *Цифровой помощник педагога колледжа по воспитанию.* **(без демо)**
 - Frontend на: React, TypeScript, Vite.

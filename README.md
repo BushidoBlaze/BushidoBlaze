@@ -11,6 +11,9 @@
 **[cosmetic-x](https://github.com/BushidoBlaze/cosmetic-x)** - [*Интернет-магазин аксессуаров*](https://bushidoblaze.github.io/cosmetic-x/)
 - Frontend на: React, TypeScript, Vite.
 
+**[physics_research_project_competition](https://github.com/BushidoBlaze/physics_research_project_competition)** - [*Лендинг конкурса исследовательских проектов по физике*](https://bushidoblaze.github.io/physics_research_project_competition/)
+- Frontend на: React, TypeScript, Vite.
+
 **[my_home](https://github.com/BushidoBlaze/my_home)** - [*Платформа для управляющих компаний и жильцов*](https://bushidoblaze.github.io/my_home/)
 - Frontend на: React, TypeScript, Vite.
 - Backend на: C#, .NET10 **(ИИ)**

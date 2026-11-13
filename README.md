@@ -1,4 +1,10 @@
-## Добро пожаловать на мой GitHub, ниже коротко обо мне и о моих работах
+<h2 align="center">Hi there, I’m Ryan.</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph.svg">
+</picture>
 
 Привет! Меня зовут Раян. Я специализируюсь на frontend-разработке с использованием React & TypeScript. Недавно окончил университет по профильному направлению.
 

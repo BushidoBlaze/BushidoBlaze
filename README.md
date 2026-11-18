@@ -7,34 +7,31 @@
 </picture>
 
 Привет! Меня зовут Раян. Я специализируюсь на frontend-разработке с использованием React & TypeScript. Недавно окончил университет по профильному направлению.
+>
+Hi! My name is Ryan. I specialize in frontend development using React & TypeScript. I recently graduated from university with a degree in a relevant field.
+
+---
 
 > *Сейчас ищу возможности для своей реализации и профессионального роста. Рассматриваю предложения и ищу команду.*
+> 
+> *I am currently looking for opportunities for self-realization and professional growth. I am considering offers and seeking a team.*
 
-## Стек технологий
+## Стек технологий / Technology stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,git,github,vite,figma" alt="React, TypeScript, JavaScript, HTML, CSS, Sass, Git, GitHub, Vite, Figma" />
 </p>
 
-## Пет-проекты
-**[cosmetic-x](https://github.com/BushidoBlaze/cosmetic-x)** - [*Интернет-магазин аксессуаров*](https://bushidoblaze.github.io/cosmetic-x/)
-- Frontend на: React, TypeScript, Vite.
-
-**[physics_research_project_competition](https://github.com/BushidoBlaze/physics_research_project_competition)** - [*Лендинг конкурса исследовательских проектов по физике*](https://bushidoblaze.github.io/physics_research_project_competition/)
-- Frontend на: React, TypeScript, Vite.
-
-**[my_home](https://github.com/BushidoBlaze/my_home)** - [*Платформа для управляющих компаний и жильцов*](https://bushidoblaze.github.io/my_home/)
-- Frontend на: React, TypeScript, Vite.
-- Backend на: C#, .NET10 **(ИИ)**
-
-## Профессиональный рост и развитие
+## Профессиональный рост и развитие / Professional growth and development
 Совершенствование моих навыков на React & TypeScript и планирование освоения backend на Node.js, затем на Go.
+>
+Refining my skills in React & TypeScript, with plans to learn backend development using Node.js, followed by Go.
 
 ```
-Могу — React, TypeScript.
-Хочу — Node.js → Go.
-Стремлюсь — React, TypeScript + Go.
+now — React, TypeScript.
+soon — Node.js → Go.
+result — React, TypeScript + Go.
 ```
 
-## Контакты для связи со мной
+## Контакты / Contacts
 - Telegram: [@aTLASov1](https://t.me/aTLASov1)
 - MAX: [Atlasov Rayan](https://max.ru/u/f9LHodD0cOIthAs0yeE9jHLNfggLxL7sikytyymIMiLcC0O-8VEE6bzVoKI)
